@@ -45,17 +45,18 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Muhammad Umar Raza**, a **Software Engineering student** from **Islamabad, Pakistan** 🇵🇰 with a passion for transforming ideas into modern, high-quality software solutions. I enjoy designing and building scalable applications that are clean, efficient, and provide excellent user experiences.
+Hi, I'm **Muhammad Umar Raza**, a **Software Engineering student** who enjoys turning ideas into clean, efficient, and scalable software. I like building applications that are well-architected, maintainable, and actually useful.
 
-My primary expertise includes **Python, Java, C++, React.js, and Django**, where I build full-stack web applications using **Django** for backend development and **React** for responsive, interactive front ends.
+My go-to stack includes **Python, Java, C++, React.js, and Django**. I work on full-stack projects pairing **Django** backends with **React** frontends, and I'm also getting into **Computer Vision** with **OpenCV** and **MediaPipe** to build real-time, intelligent applications.
 
-I'm also interested in **Computer Vision**, building real-time applications with **OpenCV** and **MediaPipe**.
-
-- 📚 Continuously strengthening my knowledge of Data Structures & Algorithms, OOP, System Design, and Clean Architecture
-- 🌱 Exploring AI-powered solutions and building projects that solve real-world problems
-- 🤝 Open to collaborating on Software Engineering, Full-Stack Web Development, and Computer Vision projects
-- 📍 **Islamabad, Pakistan**
-- 📫 Reach me at **umarcraft247@gmail.com**
+- 💻 **Languages:** Python, Java, C++, JavaScript, HTML5, CSS3
+- 🌐 **Web Development:** React.js, Django, Django REST Framework, Tailwind CSS, Vite
+- 🎥 **Computer Vision:** OpenCV, MediaPipe
+- 🛠 **Tools:** Git, GitHub, VS Code, Vercel
+- 🗄 **Databases:** SQLite, MySQL
+- 📚 Deepening my understanding of Data Structures & Algorithms, OOP, System Design, and Clean Architecture
+- 🌱 Currently exploring AI-powered solutions and practical projects that solve real-world problems
+- 🤝 Open to collaborating on full-stack and computer vision projects
 
 ## 🚀 Tech Stack
 
