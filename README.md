@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umarcraft/umarcraft/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umarcraft/umarcraft/main/light.svg">
-  <img alt="Muhammad Umar Raza" src="https://raw.githubusercontent.com/umarcraft/umarcraft/main/light.svg">
+  <img alt="Muhammad Umar" src="https://raw.githubusercontent.com/umarcraft/umarcraft/main/light.svg">
 </picture>
 
 </div>
@@ -45,7 +45,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Muhammad Umar Raza**, a **Software Engineering student** who enjoys turning ideas into clean, efficient, and scalable software. I like building applications that are well-architected, maintainable, and actually useful.
+Hi, I'm **Muhammad Umar**, a **Software Engineering student** who enjoys turning ideas into clean, efficient, and scalable software. I like building applications that are well-architected, maintainable, and actually useful.
 
 My go-to stack includes **Python, Java, C++, React.js, and Django**. I work on full-stack projects pairing **Django** backends with **React** frontends, and I'm also getting into **Computer Vision** with **OpenCV** and **MediaPipe** to build real-time, intelligent applications.
 
